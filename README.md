@@ -1,2 +1,5 @@
-# bitacoras-2016s1
-Bitácoras de las clases de Programación con Objetos 3, primer semestre del 2016
+## Bitácoras 2016 s1
+
+Bitácoras de las clases del primer semestre del 2016
+
+ - [Clase 1: Intro a la materia, mixins y ruby](clase_1.md)
