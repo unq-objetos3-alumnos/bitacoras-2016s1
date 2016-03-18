@@ -16,3 +16,12 @@
  - Se presentó el concepto de Mixins como una alternativa para la resolución del ejercicio anterior.
  - Se dió una introducción al lenguaje Ruby y cómo se utilizan los mixins. 
  
+
+## Instalación del entorno Ruby
+
+#### RubyMine
+ 
+ - Descarga de [RubyMine](https://www.jetbrains.com/ruby/)
+ - Cuenta [gratuita estudiantil de JetBrains](https://www.jetbrains.com/student/) utilizando mail de campus (pueden acceder desde el campus virtual)
+ - Instalación en [Linux](https://www.youtube.com/watch?v=OyLoonEjfDY)
+ - Instalación en [Windows](https://www.youtube.com/watch?v=Y0G9hScWgAs)
